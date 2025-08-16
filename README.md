@@ -1,4 +1,4 @@
-# Template Casual Hackathon
+# My First Dapp 休闲黑客松
 
 <!-- [English](/docs/README_EN-US.md) | [简体中文](/docs/README_ZH-CN.md) -->
 
