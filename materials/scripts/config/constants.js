@@ -44,7 +44,7 @@ const GIT_CONFIG = {
 
 // GitHub 相关配置
 const GITHUB_CONFIG = {
-    REPO_URL: 'https://github.com/CasualHackathon/Template', // TODO: 替换为实际仓库地址
+    REPO_URL: 'https://github.com/CasualHackathon/MyFirstDapp', // TODO: 替换为实际仓库地址
     ISSUE_TITLE_PREFIXES: {
         REGISTRATION: 'Registration',
         SUBMISSION: 'Submission'
