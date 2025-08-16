@@ -146,7 +146,7 @@ class RegistrationProcessor {
      * @returns {string} 表格内容
      */
     static generateRegistrationTable(rows) {
-        let table = '| 姓名 | 描述 | 联系方式 | Operate |\n| ---- | ----------- | ------- | ------- |\n';
+        let table = '| 姓名 | 描述 | 联系方式 | 编辑 |\n| ---- | ----------- | ------- | ------- |\n';
 
         rows.forEach(row => {
             const issueTitle = `${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - ${row.name}`;
