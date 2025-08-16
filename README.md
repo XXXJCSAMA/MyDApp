@@ -20,9 +20,6 @@
 - Note: Please do not modify other people's information.
 
 <!-- Registration star -->
-| Name | Description | Contact | Operate |
-| ---- | ----------- | ------- | ------- |
-| Alice | 我是一个经验丰富的合约开发，我还会前端 | alicexxx(X) | [Edit](https://github.com/CasualHackathon/Template/issues/new?title=Registration%20-%20Alice&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20Alice%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D%3A%20%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BB%8F%E9%AA%8C%E4%B8%B0%E5%AF%8C%E7%9A%84%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%EF%BC%8C%E6%88%91%E8%BF%98%E4%BC%9A%E5%89%8D%E7%AB%AF%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20X%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D%3A%20alicexxx) |
 
 <!-- Registration end -->
 
@@ -36,9 +33,6 @@
 - Do not modify or delete the `HACKATHON.md` file in your folder, nor modify others' files.
 
 <!-- Submission start -->
-| Project | Description | Members | Submitted | Operate |
-| ----------- | ----------------- | -------------- | ------ | -------- |
-| uniswap | 一个 amm 的 dex 项目，欢迎组队 | Alice,Bob | 🟢 | [Edit](https://github.com/CasualHackathon/Template/issues/new?title=Submission%20-%20uniswap&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D%3Auniswap%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D%3A%E4%B8%80%E4%B8%AA%20amm%20%E7%9A%84%20dex%20%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%AC%A2%E8%BF%8E%E7%BB%84%E9%98%9F%0AProjectMembers%5B%E9%A1%B9%E7%9B%AE%E6%88%90%E5%91%98%5D%3AAlice%2CBob%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D%3A0xxxxxxxxxxxx) &#124; [Folder](https://github.com/CasualHackathon/Template/tree/main/submission/BiscuitCoder) |
 
 <!-- Submission end -->
 
