@@ -10,8 +10,9 @@
 
 | 活动           | 时间                  | 形式    | 回顾                |
 | --------------- | --------------------- | --------- | ------------------------------ |
-| 🗓**Open Day**  | August 22, 20:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
-| 🏁**Demo Day** | August 24, 18:00 (UTC+8) | 📍 线上 |   [Play ▶️](https://example.com/)  |
+| **开始报名**    |  8月18号 (UTC+8) | 📍 线上 | [立即报名](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:) |
+| 🗓**Open Day**  |  8月22号, 20:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
+| 🏁**Demo Day** |  8月24号, 18:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
 
 （面向本期「Web3 实习计划」的同学，其他朋友也可参加（不参与相关激励评选），积累经验结识朋友也是很不错的哟）
 
@@ -79,24 +80,25 @@ Casual Hackathon 不只是一场比赛，也是一个学习、社交、共创的
 
 
 
-## 📝 注册
+## 📝 报名
 
-[注册 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:)
+[立即报名 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:)
 
-- Note: Please do not modify other people's information.
+**注意事项:**
+  - 请不要修改他人信息
+  - 报名时，请不用修改报名 title 。
+  - 报名填写资料时，请在模板基础上添加信息即可，不要修改模板结构和内容。
 
 <!-- Registration star -->
-| 姓名 | 描述 | 联系方式 | 编辑 |
+| 姓名 | 描述 | 联系方式 | 更新资料 |
 | ---- | ----------- | ------- | ------- |
-| test | aaaa | dsafasdf(dfadf) | [Edit](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20test&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20test%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D%3A%20aaaa%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20dfadf%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D%3A%20dsafasdf) |
-| xxx | xx | xxx(xxx) | [Edit](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20xxx&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20xxx%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D%3A%20xx%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20xxx%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D%3A%20xxx) |
 
 <!-- Registration end -->
 
 
-## 🎯 项目提交
+## 🎯 项目代码提交
 
-[提交 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Submission&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D:%0A%0ABrief%20description%20about%20your%20project%20in%20one%20sentence%EF%BC%88%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%89%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D:%0A%0A%20Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet%EF%BC%88%E6%82%A8%E5%9C%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%E6%88%96%20ENS%20%E5%9F%9F%E5%90%8D%EF%BC%89%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D:) 
+[立即提交 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Submission&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D:%0A%0ABrief%20description%20about%20your%20project%20in%20one%20sentence%EF%BC%88%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%89%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D:%0A%0A%20Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet%EF%BC%88%E6%82%A8%E5%9C%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%E6%88%96%20ENS%20%E5%9F%9F%E5%90%8D%EF%BC%89%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D:) 
 
 - Complete registration before submitting.
 - Fork this repository, place your project resources in `/submission/[your-github-account]`, then submit a PR to wait for merging.
