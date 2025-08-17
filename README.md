@@ -28,6 +28,7 @@
 <!-- Registration star -->
 | 姓名 | GitHub ID | 联系方式(微信*/TG) | 组队意愿 | 备注 | 更新资料 |
 | ---- | ----------- | ----------- | ----------- | ------- | ------- |
+| test | jorgenlou | 11111 | a | | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20test&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20test%0Aundefined%3A%20jorgenlou%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%2011111%0Aundefined%3A%20a%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20) |
 
 <!-- Registration end -->
 
