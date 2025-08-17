@@ -8,16 +8,18 @@
 ## 01 | 报名方式与议程安排
 📍 线上举行｜轻松参赛｜欢迎任何人报名参与！
 
+报名教程：[bilibili]( https://www.bilibili.com/video/BV1CPb7zyEsY/?share_source=copy_web&vd_source=2018ba63d31c5220d8024a775104e4cc)，[youtube](https://www.youtube.com/watch?v=dd-dwlpwYm4)
+
 | 活动           | 时间                  | 形式    | 回顾                |
 | --------------- | --------------------- | --------- | ------------------------------ |
 | **开始报名**    |  8月18号 (UTC+8) | 📍 线上 | [立即报名](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:) |
 | 🗓**Open Day**  |  8月22号, 20:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
 | 🏁**Demo Day** |  8月24号, 18:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
 
-（面向本期「Web3 实习计划」的同学，其他朋友也可参加（不参与相关激励评选），积累经验结识朋友也是很不错的哟）
+任何人都可参加，但只有参与本期「Web3 实习计划」同学，参与相关激励评选。
 
 ## 02 | 什么是休闲黑客松？
-在技术迅猛发展和商业化浪潮的冲击下，传统黑客松的探索精神、创造热情和自由氛围似乎正逐渐被淹没。由 LXDAO 社区发起并维护运营的开源项目，Casual Hackathon 应运而生。任何人都可以免费自由地使用和参与。Casual Hackathon 致力于在轻松有趣的环境中，重拾那份最初的 “玩” 的心，让每个人都能跳脱日常，充分享受编程带来的乐趣与自由。
+​		在技术迅猛发展和商业化浪潮的冲击下，传统黑客松的探索精神、创造热情和自由氛围似乎正逐渐被淹没。由 LXDAO 社区发起并维护运营的开源项目，Casual Hackathon 应运而生。任何人都可以免费自由地使用和参与。Casual Hackathon 致力于在轻松有趣的环境中，重拾那份最初的 “玩” 的心，让每个人都能跳脱日常，充分享受编程带来的乐趣与自由。
 
 ### **为什么是 “休闲” 黑客松？**
 #### 1. **围绕特定主题，一起畅想未来**
