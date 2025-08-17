@@ -14,14 +14,14 @@
 | 🗓**Open Day**  |  8月22号, 18:30 (UTC+8) | 📍 线上 | [提交Demo](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Submission&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D:%0A%0ABrief%20description%20about%20your%20project%20in%20one%20sentence%EF%BC%88%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%89%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D:%0A%0A%20Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet%EF%BC%88%E6%82%A8%E5%9C%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%E6%88%96%20ENS%20%E5%9F%9F%E5%90%8D%EF%BC%89%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D:) |
 | 🏁**Demo Day** |  8月24号, 18:00 (UTC+8) | 📍 线上 | - |
 
+**报名教程：** [bilibili]( https://www.bilibili.com/video/BV1CPb7zyEsY/?share_source=copy_web&vd_source=2018ba63d31c5220d8024a775104e4cc)，[youtube](https://www.youtube.com/watch?v=dd-dwlpwYm4)
+
 **注意事项：**
   1. 禁止修改他人信息
   2. 提交 Demo 时必须先完成注册，否则提交无效。
   3. 提交资料时，只在对应位置填写信息，不要修改其它基础内容。
   4. 提交报名后，预计1分钟内会显示在下方报名列表中，如未显示请联系相关技术人员。
   5. 提交 Demo 时，请先 Fork 当前代码库，然后将 Demo 相关代码，放到以你 Github ID 命名的目录下，如：`/submission/[your-github-account]`，然后再提交 PR，我们会在审阅后合并，禁止修改其它信息
-
-**报名教程：** [bilibili]( https://www.bilibili.com/video/BV1CPb7zyEsY/?share_source=copy_web&vd_source=2018ba63d31c5220d8024a775104e4cc)，[youtube](https://www.youtube.com/watch?v=dd-dwlpwYm4)
 
 ### 📝 报名列表
 
