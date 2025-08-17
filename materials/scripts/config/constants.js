@@ -21,9 +21,9 @@ const FIELD_NAMES = {
     // 注册字段
     REGISTRATION: {
         NAME: 'Name[姓名]',
-        DESCRIPTION: 'Description[个人介绍]',
         CONTACT_METHOD: 'ContactMethod[联系方式]',
-        CONTACT: 'Contact[联系账号]'
+        WANTS_TEAM: 'WantsTeam[组队意愿（是/否）]',
+        COMMENT: 'Comment[备注]'
     },
     // 项目提交字段
     SUBMISSION: {

@@ -56,9 +56,9 @@ class RegistrationProcessor {
     static extractRegistrationData(fields) {
         return {
             name: fields[FIELD_NAMES.REGISTRATION.NAME] || '',
-            description: fields[FIELD_NAMES.REGISTRATION.DESCRIPTION] || '',
             contactMethod: fields[FIELD_NAMES.REGISTRATION.CONTACT_METHOD] || '',
-            contact: fields[FIELD_NAMES.REGISTRATION.CONTACT] || ''
+            WantsTeam: fields[FIELD_NAMES.REGISTRATION.WANTS_TEAM] || '',
+            comment: fields[FIELD_NAMES.REGISTRATION.COMMENT] || ''
         };
     }
 
@@ -68,9 +68,9 @@ class RegistrationProcessor {
      * @param {string} githubUser - GitHub 用户名
      */
     static validateRegistrationData(registrationData, githubUser) {
-        const { name, contact, contactMethod } = registrationData;
+        const { name, contactMethod, WantsTeam } = registrationData;
 
-        if (!name || !githubUser || !contact || !contactMethod) {
+        if (!name || !githubUser || !WantsTeam || !contactMethod) {
             console.error('注册字段不全，缺少必填信息');
             process.exit(1);
         }
@@ -99,14 +99,14 @@ class RegistrationProcessor {
      * @returns {string} 文件内容
      */
     static generateRegistrationFileContent(githubUser, registrationData) {
-        const { name, description, contactMethod, contact } = registrationData;
+        const { name, contactMethod, WantsTeam, comment } = registrationData;
 
         return `# ${githubUser}
 
 **${FIELD_NAMES.REGISTRATION.NAME}**: ${name}  
-**${FIELD_NAMES.REGISTRATION.DESCRIPTION}**: ${description}  
 **${FIELD_NAMES.REGISTRATION.CONTACT_METHOD}**: ${contactMethod}  
-**${FIELD_NAMES.REGISTRATION.CONTACT}**: ${contact}
+**${FIELD_NAMES.REGISTRATION.WANTS_TEAM}**: ${WantsTeam}
+**${FIELD_NAMES.REGISTRATION.COMMENT}**: ${comment}  
 `;
     }
 
@@ -120,12 +120,14 @@ class RegistrationProcessor {
         const rows = files.map(file => {
             const filePath = path.join(registrationDir, file);
             const content = FileManager.readFileContent(filePath);
+            const githubUser = path.basename(file, '.md');
 
             return {
                 name: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.NAME),
-                description: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.DESCRIPTION),
+                githubID:githubUser,
                 contactMethod: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.CONTACT_METHOD),
-                contact: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.CONTACT)
+                WantsTeam: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.WANTS_TEAM),
+                comment: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.COMMENT)
             };
         });
 
@@ -146,14 +148,14 @@ class RegistrationProcessor {
      * @returns {string} 表格内容
      */
     static generateRegistrationTable(rows) {
-        let table = '| 姓名 | 描述 | 联系方式 | 编辑 |\n| ---- | ----------- | ------- | ------- |\n';
+        let table = '| 姓名 | GitHub ID | 联系方式(微信*/TG) | 组队意愿 | 备注 | 更新资料 |\n| ---- | ----------- | ----------- | ----------- | ------- | ------- |\n';
 
         rows.forEach(row => {
             const issueTitle = `${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - ${row.name}`;
-            const issueBody = `${FIELD_NAMES.REGISTRATION.NAME}: ${row.name}\n${FIELD_NAMES.REGISTRATION.DESCRIPTION}: ${row.description}\n${FIELD_NAMES.REGISTRATION.CONTACT_METHOD}: ${row.contactMethod}\n${FIELD_NAMES.REGISTRATION.CONTACT}: ${row.contact}`;
+            const issueBody = `${FIELD_NAMES.REGISTRATION.NAME}: ${row.name}\n${FIELD_NAMES.REGISTRATION.GITHUBID}: ${row.githubID}\n${FIELD_NAMES.REGISTRATION.CONTACT_METHOD}: ${row.contactMethod}\n${FIELD_NAMES.REGISTRATION.WANTS_TEAMTEAM}: ${row.WantsTeam}\n${FIELD_NAMES.REGISTRATION.COMMENT}: ${row.comment}`;
             const issueUrl = ReadmeManager.generateIssueUrl(issueTitle, issueBody);
 
-            table += `| ${row.name} | ${row.description} | ${row.contact}(${row.contactMethod}) | [Edit](${issueUrl}) |\n`;
+            table += `| ${row.name} | ${row.githubID} | ${row.contactMethod} | ${row.WantsTeam} |${row.comment} | [更新](${issueUrl}) |\n`;
         });
 
         return table;

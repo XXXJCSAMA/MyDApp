@@ -10,14 +10,14 @@ const RegistrationProcessor = require('./processors/registration-processor');
 // 从环境变量获取参数
 const issueBody = process.env.ISSUE_BODY || `Name[姓名]:test
 
-Brief personal introduction including skills and experience (One sentence)[简短介绍个人技能与经验]
-Description[个人介绍]:description
-
-Telegram | WeChat | Discord | Email | X(Twitter) | GitHub
+微信或者 Telegram，推荐微信
 ContactMethod[联系方式]:contactMethod
 
-e.g., @username, email@example.com
-Contact[联系账号]:contact22`;
+WantsTeam[组队意愿（是/否）]:保密
+
+Brief personal introduction including skills and experience (One sentence)[简短介绍个人技能与经验]
+Comment[备注]:comment
+`;
 
 const githubUser = process.env.ISSUE_USER || 'githubUser';
 

@@ -61,9 +61,9 @@ class UserManager {
 
         return {
             name: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.NAME),
-            description: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.DESCRIPTION),
             contactMethod: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.CONTACT_METHOD),
-            contact: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.CONTACT)
+            WantsTeam: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.WANTS_TEAM),
+            comment: parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.COMMENT)
         };
     }
 }
