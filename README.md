@@ -13,8 +13,8 @@
 | 活动           | 时间                  | 形式    | 回顾                |
 | --------------- | --------------------- | --------- | ------------------------------ |
 | **开始报名**    |  8月18号 (UTC+8) | 📍 线上 | [立即报名](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:) |
-| 🗓**Open Day**  |  8月22号, 20:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
-| 🏁**Demo Day** |  8月24号, 18:00 (UTC+8) | 📍 线上 | [Play ▶️](https://example.com/) |
+| 🗓**Open Day**  |  8月22号, 20:00 (UTC+8) | 📍 线上 | - |
+| 🏁**Demo Day** |  8月24号, 18:00 (UTC+8) | 📍 线上 | - |
 
 任何人都可参加，但只有参与本期「Web3 实习计划」同学，参与相关激励评选。
 
@@ -108,7 +108,7 @@ Casual Hackathon 不只是一场比赛，也是一个学习、社交、共创的
 - 提交代码时，请不要修改或删除你目录下的`HACKATHON.md`文件，同时也不要操作其它选手的文件，否则将拒绝合并。
 
 <!-- Submission start -->
-| 项目名 | 介绍 | 对员 | 提交状态 | 更新提交 |
+| 项目名 | 介绍 | 成员 | 提交状态 | 更新提交 |
 | ----------- | ----------------- | -------------- | ------ | -------- |
 
 <!-- Submission end -->
