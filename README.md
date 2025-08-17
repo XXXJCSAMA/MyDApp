@@ -86,10 +86,10 @@ Casual Hackathon 不只是一场比赛，也是一个学习、社交、共创的
 
 [立即报名 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration&body=Name%5B%E5%A7%93%E5%90%8D%5D:%0A%0ABrief%20personal%20introduction%20including%20skills%20and%20experience%EF%BC%88%E7%AE%80%E7%9F%AD%E4%BB%8B%E7%BB%8D%E4%B8%AA%E4%BA%BA%E6%8A%80%E8%83%BD%E4%B8%8E%E7%BB%8F%E9%AA%8C%EF%BC%89%0ADescription%5B%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%5D:%0A%0ATelegram%20%7C%20WeChat%20%7C%20Discord%20%7C%20Email%20%7C%20X(Twitter)%20%7C%20GitHub%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D:%0A%0Ae.g.,%20@username,%20email@example.com%0AContact%5B%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%5D:)
 
-**注意事项:**
+**注意事项：**
   - 请不要修改他人信息
-  - 报名时，请不用修改报名 title 。
-  - 报名填写资料时，请在模板基础上添加信息即可，不要修改模板结构和内容。
+  - 报名时，请不用修改报名 title ，在模板的基础上添加信息即可，也不要修改模板结构和内容。
+  - 提交报名后，预计1分钟内会显示成功，并在`/submission`目录下，新建一个以你 github 用户名命名的文件夹。
 
 <!-- Registration star -->
 | 姓名 | 描述 | 联系方式 | 更新资料 |
@@ -102,18 +102,19 @@ Casual Hackathon 不只是一场比赛，也是一个学习、社交、共创的
 
 [立即提交 ➡️](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Submission&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D:%0A%0ABrief%20description%20about%20your%20project%20in%20one%20sentence%EF%BC%88%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%89%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D:%0A%0A%20Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet%EF%BC%88%E6%82%A8%E5%9C%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%BB%E7%BD%91%E4%B8%8A%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%E6%88%96%20ENS%20%E5%9F%9F%E5%90%8D%EF%BC%89%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D:) 
 
-- Complete registration before submitting.
-- Fork this repository, place your project resources in `/submission/[your-github-account]`, then submit a PR to wait for merging.
-- Do not modify or delete the `HACKATHON.md` file in your folder, nor modify others' files.
+**注意事项：**
+- 提交代码前请先完成注册，否则提交无效
+- 提交时请 Fork 当前代码库到你自己的仓库中，并将你的代码放在`/submission/[your-github-account]`中，然后提交 PR 请求合并，我们会在检查后进行合并
+- 提交代码时，请不要修改或删除你目录下的`HACKATHON.md`文件，同时也不要操作其它选手的文件，否则将拒绝合并。
 
 <!-- Submission start -->
-| Project | Description | Members | Submitted | Operate |
+| 项目名 | 介绍 | 对员 | 提交状态 | 更新 |
 | ----------- | ----------------- | -------------- | ------ | -------- |
 
 <!-- Submission end -->
 
 
-## 🤝 Co-organizers
+## 🤝 合作组织
 
 
 <table>
@@ -136,7 +137,7 @@ Casual Hackathon 不只是一场比赛，也是一个学习、社交、共创的
     </tr>
 </table>
 
-## 🌐 Community Support
+## 🌐 赞助商
 
 <table>
     <tr>
