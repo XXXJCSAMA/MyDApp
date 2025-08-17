@@ -36,8 +36,9 @@
 ### 🎯 Demo 提交情况
 
 <!-- Submission start -->
-| 项目名 | 介绍 | 成员 | 提交状态 | 更新提交 |
+| 项目名称 | 项目描述 | 成员 | Submitted | Operate |
 | ----------- | ----------------- | -------------- | ------ | -------- |
+| aa | aa | test | ⚪ | [Edit](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Submission%20-%20aa&body=ProjectName%5B%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%5D%3Aaa%0AProjectDescription%5B%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0%5D%3Aaa%0AProjectMembers%5B%E9%A1%B9%E7%9B%AE%E6%88%90%E5%91%98%5D%3Atest%0AWalletAddress%5B%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%5D%3Aaa) &#124; [Folder](https://github.com/CasualHackathon/MyFirstDapp/tree/main/submission/jorgenlou) |
 
 <!-- Submission end -->
 
