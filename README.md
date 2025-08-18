@@ -131,8 +131,6 @@
                 <img src="./materials/images/nantangdao.png" alt="nantangdao" width="130" />
             </a>
         </td>
-    </tr>
-    <tr>
         <td  align="center" valign="middle">
             <a href="https://www.blockchainlabs.org/" target="_blank">
                 <img src="./materials/images/blockchainlabs.png" alt="blockchainlabs" width="130" />
@@ -143,6 +141,8 @@
                 <img src="./materials/images/SmartDeer.png" alt="SmartDeer" width="130" />
             </a>
         </td>
+    </tr>
+    <tr>
         <td  align="center" valign="middle">
             <a href="https://x.com/foresight_news?s=21" target="_blank">
                 <img src="./materials/images/foresight_news.png" alt="foresight_news" width="130" />
@@ -175,8 +175,6 @@
                 <img src="./materials/images/bupt3.png" alt="bupt3" width="130" />
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" valign="middle">
             <a href="https://x.com/THUBA_DAO/" target="_blank">
                 <img src="./materials/images/thuba.png" alt="THUBA_DAO" width="130" />
