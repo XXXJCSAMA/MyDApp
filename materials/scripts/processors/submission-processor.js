@@ -164,7 +164,7 @@ class SubmissionProcessor {
      * @returns {string} 表格内容
      */
     static generateSubmissionTable(rows, submissionRoot) {
-        let table = '| 项目名称 | 项目描述 | 成员 | Submitted | Operate |\n| ----------- | ----------------- | -------------- | ------ | -------- |\n';
+        let table = '| 项目名称 | 项目描述 | 成员 | 提交状态 | 更新资料 |\n| ----------- | ----------------- | -------------- | ------ | -------- |\n';
 
         rows.forEach(row => {
             // 检查项目是否已提交文件
