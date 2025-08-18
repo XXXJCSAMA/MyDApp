@@ -29,6 +29,7 @@
 | 姓名 | GitHub ID | 联系方式(微信*/TG) | 组队意愿 | 备注 | 更新资料 |
 | ---- | ----------- | ----------- | ----------- | ------- | ------- |
 | Jessie | XXXJCSAMA | @jessiewang_0914 | 是 |合约开发 | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20Jessie&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20Jessie%0Aundefined%3A%20XXXJCSAMA%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20%40jessiewang_0914%0Aundefined%3A%20%E6%98%AF%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91) |
+| LukeNotes | LukeNotes | wx: Lukee0324 | 是 |前端部分，也可以尝试负责合约功能 | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20LukeNotes&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20LukeNotes%0Aundefined%3A%20LukeNotes%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20wx%3A%20Lukee0324%0Aundefined%3A%20%E6%98%AF%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20%E5%89%8D%E7%AB%AF%E9%83%A8%E5%88%86%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%B0%9D%E8%AF%95%E8%B4%9F%E8%B4%A3%E5%90%88%E7%BA%A6%E5%8A%9F%E8%83%BD) |
 | 暖冬 | Zyuhui008 | Zyuhui008 | 是 |纯萌新，愿意听话 | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20%E6%9A%96%E5%86%AC&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20%E6%9A%96%E5%86%AC%0Aundefined%3A%20Zyuhui008%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20Zyuhui008%0Aundefined%3A%20%E6%98%AF%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20%E7%BA%AF%E8%90%8C%E6%96%B0%EF%BC%8C%E6%84%BF%E6%84%8F%E5%90%AC%E8%AF%9D) |
 
 <!-- Registration end -->
