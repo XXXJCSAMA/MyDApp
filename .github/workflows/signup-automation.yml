@@ -32,6 +32,26 @@ jobs:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_USER: ${{ github.event.issue.user.login }}
 
+      - name: Handle failure (comment on issue)
+        if: steps.extract-signup.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            script: |
+                const { owner, repo } = context.repo;
+                const issue_number = context.payload.issue.number;
+
+                await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body: `❌ 注册失败：未检测到报名信息，请核对以下信息是否填写正确：
+                - 姓名
+                - 联系方式
+                - 是否组队
+                ⚠️ 填写时请注意：冒号“:”后面紧跟内容，不要换行。`
+                });  
+        
       - name: Comment and close issue
         uses: actions/github-script@v7
         with:
@@ -66,17 +86,4 @@ jobs:
             } catch (error) {
               console.error(`Error processing issue: ${error.message}`);
               core.setFailed(`Error processing issue: ${error.message}`);
-              // 捕获"报名信息缺失"的异常
-              if (error.message.startsWith('MissingParameters')) {
-                  await github.rest.issues.createComment({
-                  owner,
-                  repo,
-                  issue_number,
-                  body: `❌ 注册失败：未检测到报名信息，请核对以下信息是否填写正确：
-                  - 姓名
-                  - 联系方式
-                  - 是否组队
-                  同时填写信息时，请在冒号“：”后面填写，不要换行填写。`
-                  });
-              }
             }

@@ -30,8 +30,5 @@ try {
     RegistrationProcessor.processRegistration(issueBody, githubUser);
 } catch (error) {
     console.error('注册处理失败:', error.message);
-    if (error.message.startsWith('MissingParameters')) {
-        throw new Error('MissingParameters');
-    }
     process.exit(1);
 }

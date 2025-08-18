@@ -72,7 +72,7 @@ class RegistrationProcessor {
 
         if (!name || !githubUser || !WantsTeam || !contactMethod) {
             console.error('注册字段不全，缺少必填信息');
-            throw new Error('MissingParameters');
+            process.exit(1);
         }
     }
 
