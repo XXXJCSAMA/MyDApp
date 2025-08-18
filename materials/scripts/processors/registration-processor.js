@@ -152,8 +152,14 @@ class RegistrationProcessor {
 
         rows.forEach(row => {
             const issueTitle = `${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - ${row.name}`;
-            const issueBody = `${FIELD_NAMES.REGISTRATION.NAME}: ${row.name}\n${FIELD_NAMES.REGISTRATION.GITHUBID}: ${row.githubID}\n${FIELD_NAMES.REGISTRATION.CONTACT_METHOD}: ${row.contactMethod}\n${FIELD_NAMES.REGISTRATION.WANTS_TEAMTEAM}: ${row.WantsTeam}\n${FIELD_NAMES.REGISTRATION.COMMENT}: ${row.comment}`;
-            const issueUrl = ReadmeManager.generateIssueUrl(issueTitle, issueBody);
+            const name = `${FIELD_NAMES.REGISTRATION.NAME}: ${row.name}\n`
+            const githubID = `${FIELD_NAMES.REGISTRATION.GITHUBID}: ${row.githubID}\n`
+            const contactMethod = `${FIELD_NAMES.REGISTRATION.CONTACT_METHOD}: ${row.contactMethod}\n`
+            const wantsTeam = `${FIELD_NAMES.REGISTRATION.WANTS_TEAM}: ${row.WantsTeam}\n`
+            const comment = `${FIELD_NAMES.REGISTRATION.COMMENT}: ${row.comment}`;
+            const updateUrl = name + contactMethod + wantsTeam + comment
+            const issueBody = name + githubID + contactMethod + wantsTeam + comment
+            const issueUrl = ReadmeManager.generateIssueUrl(issueTitle, updateUrl);
 
             table += `| ${row.name} | ${row.githubID} | ${row.contactMethod} | ${row.WantsTeam} |${row.comment} | [更新](${issueUrl}) |\n`;
         });
