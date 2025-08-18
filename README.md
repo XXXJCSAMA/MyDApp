@@ -108,7 +108,6 @@
 
 ## 🤝 联合组织
 
-
 <table>
     <tr>
         <td  align="center" valign="middle">
@@ -116,16 +115,34 @@
                 <img src="./materials/images/LXDAO.png" alt="LXDAO" width="130" />
             </a>
         </td>
-         <td align="center" valign="middle">
-            <a href="https://defihacklabs.io/" target="_blank">
-                <img src="./materials/images/defihacklabs.png" alt="defihacklabs" width="130" />
-            </a>
-        </td>
         <td  align="center" valign="middle">
             <a href="https://ethpanda.org/" target="_blank">
                 <img src="./materials/images/ETHPanda.png" alt="ETHPanda" width="130" />
             </a>
         </td>
+    </tr>
+</table>
+
+
+
+## 💰 赞助商
+
+<table>
+    <tr>
+        <td align="center" valign="middle">
+            <a href="https://x.com/ChainforGood" target="_blank">
+                <img src="./materials/images/ChainforGood.png" alt="ChainforGood" width="130" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
+## 🌐 社区支持
+
+<table>
+    <tr>
         <td  align="center" valign="middle">
             <a href="https://x.com/nantangdao/" target="_blank">
                 <img src="./materials/images/nantangdao.png" alt="nantangdao" width="130" />
@@ -141,8 +158,6 @@
                 <img src="./materials/images/SmartDeer.png" alt="SmartDeer" width="130" />
             </a>
         </td>
-    </tr>
-    <tr>
         <td  align="center" valign="middle">
             <a href="https://x.com/foresight_news?s=21" target="_blank">
                 <img src="./materials/images/foresight_news.png" alt="foresight_news" width="130" />
@@ -151,40 +166,4 @@
     </tr>
 </table>
 
-## 🌐 社区支持
-
-<table>
-    <tr>
-        <td align="center" valign="middle">
-            <a href="https://learnblockchain.cn/" target="_blank">
-                <img src="./materials/images/learnblockchain.png" alt="learnblockchain" width="130" />
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://seedao.xyz/" target="_blank">
-                <img src="./materials/images/SEEDDAO.png" alt="SEEDDAO" width="130" />
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://openbuild.xyz/" target="_blank">
-                <img src="./materials/images/OpenBuild.png" alt="OpenBuild" width="130" />
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://x.com/BUPT3DAO" target="_blank">
-                <img src="./materials/images/bupt3.png" alt="bupt3" width="130" />
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://x.com/THUBA_DAO/" target="_blank">
-                <img src="./materials/images/thuba.png" alt="THUBA_DAO" width="130" />
-            </a>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://x.com/ChainforGood" target="_blank">
-                <img src="./materials/images/ChainforGood.png" alt="ChainforGood" width="130" />
-            </a>
-        </td>
-    </tr>
-</table>
 
