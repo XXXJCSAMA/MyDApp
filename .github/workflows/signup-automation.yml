@@ -66,4 +66,17 @@ jobs:
             } catch (error) {
               console.error(`Error processing issue: ${error.message}`);
               core.setFailed(`Error processing issue: ${error.message}`);
+              // 捕获"报名信息缺失"的异常
+              if (error.message.startsWith('MissingParameters')) {
+                  await github.rest.issues.createComment({
+                  owner,
+                  repo,
+                  issue_number,
+                  body: `❌ 注册失败：未检测到报名信息，请核对以下信息是否填写正确：
+                  - 姓名
+                  - 联系方式
+                  - 是否组队
+                  同时填写信息时，请在冒号“：”后面填写，不要换行填写。`
+                  });
+              }
             }
