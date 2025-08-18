@@ -29,6 +29,7 @@
 | 姓名 | GitHub ID | 联系方式(微信*/TG) | 组队意愿 | 备注 | 更新资料 |
 | ---- | ----------- | ----------- | ----------- | ------- | ------- |
 | Jessie | XXXJCSAMA | @jessiewang_0914 | 是 |合约开发 | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20Jessie&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20Jessie%0Aundefined%3A%20XXXJCSAMA%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%20%40jessiewang_0914%0Aundefined%3A%20%E6%98%AF%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91) |
+| 暖冬 | Zyuhui008 | 19823242514 | 是 |纯萌新，愿意听指挥去做 | [更新](https://github.com/CasualHackathon/MyFirstDapp/issues/new?title=Registration%20-%20%E6%9A%96%E5%86%AC&body=Name%5B%E5%A7%93%E5%90%8D%5D%3A%20%E6%9A%96%E5%86%AC%0Aundefined%3A%20Zyuhui008%0AContactMethod%5B%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%5D%3A%2019823242514%0Aundefined%3A%20%E6%98%AF%0AComment%5B%E5%A4%87%E6%B3%A8%5D%3A%20%E7%BA%AF%E8%90%8C%E6%96%B0%EF%BC%8C%E6%84%BF%E6%84%8F%E5%90%AC%E6%8C%87%E6%8C%A5%E5%8E%BB%E5%81%9A) |
 
 <!-- Registration end -->
 
